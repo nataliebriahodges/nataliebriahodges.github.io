@@ -1,0 +1,12 @@
+---
+title: "Teaching"
+---
+
+<!-- One line per course. To link a PDF of a syllabus, put the PDF in this folder and
+     write [Syllabus](pos2041-syllabus.pdf); Quarto copies linked files into docs/. -->
+
+I teach courses in international relations and political economy.
+
+## Teaching Assistant
+
+INR 2002: Introduction to International Relations 2026-Present.
